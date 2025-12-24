@@ -1,12 +1,16 @@
 {
-  "id": 1,
-  "title": "일기 제목",
-  "content": "일기 내용",
-  "entry_date": "2025-11-12",
-  "entry_date_time": "2025-11-12T09:30:00",
-  "loc_text": "위치",
-  "emotion": "happy",
-  "tags": ["tag1", "tag2"],
-  "location": "위치",
-  "images": ["url1", "url2"]
+  "entries" : [
+    {
+        "id": 1,
+        "title": "일기 제목",
+        "content": "일기 내용",
+        "entry_date": "2025-11-12",
+        "entry_date_time": "2025-11-12T09:30:00",
+        "loc_text": "위치",
+        "emotion": "happy",
+        "tags": ["tag1", "tag2"],
+        "location": "위치",
+        "images": ["url1", "url2"]
+    }  
+  ]
 }
